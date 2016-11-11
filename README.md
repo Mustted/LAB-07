@@ -56,7 +56,7 @@ Maximum Value :2147483647
 
 คำสั่งสำหรับการทดลอง
 ให้นักศึกษา เขียนโปรแกรมคล้ายกับตัวอย่างที่ 1 โดยมีชนิดข้อมูลเป็น byte, char, bool, sbyte, short, ushort, uint, float, double, decimal, long และ ulong
-
+![](https://github.com/Mustted/LAB-07/blob/master/LAB7_2.png?raw=true)
 **หมายเหตุ**
  
 ชนิดข้อมูล ```bool``` เก็บข้อมูลได้เฉพาะ ```true``` และ ```false``` ไม่ต้องหา ```MinValue``` และ ```MaxValue```
@@ -119,7 +119,7 @@ namespace RandomNumber
 
 1. ให้พิมพ์ค่าตัวแปร boolean ในข้อ 3 ออกทางหน้าจอ
 
-
+![](https://github.com/Mustted/LAB-07/blob/master/LAB7_3.png?raw=true)
 ##การเขียนโปรแกรมด้วยตัวดำเนินการทางตรรกะ
 
 ตัวแปรชนิด boolean มักจะถูกใช้เป็นที่เก็บผลที่เกิดจากการดำเนินการทางตรรกะ เช่น AND, OR, NOT เป็นต้น ซึ่งการดำเนินการทางตรรกะจะมีตารางความจริง เป็นตัวบอกผลในการดำเนินการของตัวดำเนินการต่างๆ ดังตัวย่าง
@@ -210,7 +210,7 @@ namespace thruthTable
 5. NOR
 6. Exclusive OR
 ```
-
+![](https://github.com/Mustted/LAB-07/blob/master/LAB7_4.png?raw=true)
 
 
   2.2.2.	ชนิดข้อมูลตัวเลขจำนวนเต็ม (Integer Types)
@@ -252,6 +252,7 @@ public class intergerTest
 9.	y%8
 10.	100*x+y%2-a
 ```
+![](https://github.com/Mustted/LAB-07/blob/master/LAB7_8.png?raw=true)
 ##2.2.3. ชนิดข้อมูลเลขทศนิยม (Floating Point and Decimal Types)
 ตัวเลขจำนวนทศนิยม มักจะใช้ในการคำนวณทางวิทยาศาสตร์ เนื่องจากค่าในวิทยาศาสตร์ต้องการความละเอียดสูง หรือมีค่าสูงมากกว่าที่เลขจำนวนเต็มจะเก็บได้
 
@@ -364,7 +365,10 @@ The sine of       6.00 = -0.279415         *
 จากโปรแกรมตัวอย่าง ให้ดัดแปลงโปรแกรมเพื่อวาดรูปคลื่นดังต่อไปนี้
 ```
 1.	y = x2
+![](https://github.com/Mustted/LAB-07/blob/master/LAB7_5.png?raw=true)
 2.	y = cos(x)
+![](https://github.com/Mustted/LAB-07/blob/master/LAB7_6.png?raw=true)
 3.	y = tan(x)
+![](https://github.com/Mustted/LAB-07/blob/master/LAB7_7.png?raw=true)
 ```
 	
