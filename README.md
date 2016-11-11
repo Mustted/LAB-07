@@ -363,12 +363,12 @@ The sine of       6.00 = -0.279415         *
 
 ##การทดลอง พล็อตรูปคลื่นทางคณิตศาสตร์
 จากโปรแกรมตัวอย่าง ให้ดัดแปลงโปรแกรมเพื่อวาดรูปคลื่นดังต่อไปนี้
-```
+
 1.	y = x2
 ![](https://github.com/Mustted/LAB-07/blob/master/LAB7_5.png?raw=true)
 2.	y = cos(x)
 ![](https://github.com/Mustted/LAB-07/blob/master/LAB7_6.png?raw=true)
 3.	y = tan(x)
 ![](https://github.com/Mustted/LAB-07/blob/master/LAB7_7.png?raw=true)
-```
+
 	
